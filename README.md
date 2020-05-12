@@ -30,6 +30,7 @@ There are two important features I wish to add to the site
   <li> businessethicscases.blogspot.com </li> 
   <li> Consumer Reports </li> 
 </ul>
+
 # Filters
 <ul>
   <li> Environmental pollutiion and climate change caused by large corporation, especially where it is against the law </li>
