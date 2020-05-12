@@ -5,7 +5,7 @@ There are two important features I wish to add to the site
 #features
 <ol>
   <li> A machine learning algorithm to identify bias in a news source (filtering use of emotional language is one possibility) </li>
-  <li> A way to upvote stories that haven't gotten a great deal of attention
+  <li> A way to upvote stories that haven't gotten a great deal of attention </li> 
 </ol>
 #websites
 <ul>
@@ -21,13 +21,17 @@ There are two important features I wish to add to the site
   <li> nrdc.org </li>
   <li> theappeal.org </li> 
   <li> businessethicscases.blogspot.com </li> 
+  <li> Consumer Reports </li> 
 </ul>
 #Filters
 <ul>
   <li> Environmental pollutiion and climate change caused by large corporation, especially where it is against the law </li>
   <li> Corporate exploitation of workers in developing countries </li> 
   <li> Police force mishandling and police brutality, 4th amendment violations and illegal detainment </li> 
-  <li> Missappriopriation of funds
+  <li> Missappriopriation of funds. </li>
+  <li> Misleading consumers </li> 
+  <li> Accepting bribe money </li> 
+  <li> Monopoly watch </li> 
 </ul>
 
 
