@@ -1,5 +1,5 @@
 # thismatters
-Making a website that will automatically pool together different website articles.
+I want to make a website that pools together content from different web sources. 
 There are two important features I wish to add to the site
 #features
 <ol>
