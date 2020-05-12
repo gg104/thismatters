@@ -22,12 +22,12 @@ There are two important features I wish to add to the site
   <li> theappeal.org </li> 
   <li> businessethicscases.blogspot.com </li> 
 </ul>
-Some of the things I wish to filter for:
 #Filters
 <ul>
   <li> Environmental pollutiion and climate change caused by large corporation, especially where it is against the law </li>
   <li> Corporate exploitation of workers in developing countries </li> 
   <li> Police force mishandling and police brutality, 4th amendment violations and illegal detainment </li> 
+  <li> Missappriopriation of funds
 </ul>
 
 
