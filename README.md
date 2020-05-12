@@ -7,7 +7,7 @@ Specifically I want it to be a means of finding news that hasn't gotten the atte
 There are two important features I wish to add to the site
 #features
 <ol>
-  <li> A machine learning algorithm to identify bias in a news source (filtering use of emotional language is one possibility) </li>
+  <li> A machine learning algorithm to identify bias in a news source (filtering use of emotional language is one possibility), provide a bias and objectivity rating. </li>
   <li> A way to upvote stories that haven't gotten a great deal of attention </li> 
   <li> List of takes. 
 </ol>
