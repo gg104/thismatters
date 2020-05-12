@@ -14,5 +14,20 @@ There are two important features I wish to add to the site
   <li> Government Accountability Office </li>
   <li> center-forward.org </li>
   <li> Transparency Internation </li>
-  <li> Reddit r/Corruption
+  <li> Reddit r/Corruption </li>
+  <li> Project on Government Oversight </li> 
+  <li> counterpunch.org </li>
+  <li> propublica.org </li> 
+  <li> nrdc.org </li>
+  <li> theappeal.org </li> 
+  <li> businessethicscases.blogspot.com </li> 
 </ul>
+Some of the things I wish to filter for:
+#Filters
+<ul>
+  <li> Environmental pollutiion and climate change caused by large corporation, especially where it is against the law </li>
+  <li> Corporate exploitation of workers in developing countries </li> 
+  <li> Police force mishandling and police brutality, 4th amendment violations and illegal detainment </li> 
+</ul>
+
+
