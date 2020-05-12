@@ -1,5 +1,6 @@
 # thismatters
 I want to make a website that pools together content from different web sources. 
+Specifically I want it to be a means of finding news that hasn't gotten the attention it deserves, which I think is especially important with regards to government and corporate corruption and scandals. 
 There are two important features I wish to add to the site
 #features
 <ol>
